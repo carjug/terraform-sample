@@ -1,0 +1,9 @@
+# IDE settings
+.idea
+
+# Terraform ignores
+.terraform
+*.tfstate
+*.tfstate.backup
+
+
